@@ -1,3 +1,4 @@
 cgi
 cgitb
 requests
+os
