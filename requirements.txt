@@ -1,4 +1,4 @@
-cgi.py
+cgi
 cgitb
 requests
 os
