@@ -1,4 +1,0 @@
-cgi
-cgitb
-requests
-os
